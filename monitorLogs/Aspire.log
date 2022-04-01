@@ -1,0 +1,34 @@
+[INFO ] [2022-04-01 21:40:52,711] Pre-Condition: Open browser 'firefox'and navigate to 'https://aspireapp.odoo.com/'
+[INFO ] [2022-04-01 21:40:53,040] Post-Condition: Close browser firefox
+[INFO ] [2022-04-01 21:40:53,040] OS name = windows 10
+[INFO ] [2022-04-01 21:40:53,040] Cannot invoke "Object.toString()" because "this.driver" is null
+[INFO ] [2022-04-01 21:41:50,295] Pre-Condition: Open browser 'firefox'and navigate to 'https://aspireapp.odoo.com/'
+[INFO ] [2022-04-01 21:41:55,640] User_Create_Product_Manufacture -  Step 01: Input valid data into 'Email' textbox
+[INFO ] [2022-04-01 21:41:56,280] User_Create_Product_Manufacture -  Step 02: Input valid data into 'Password' textbox
+[INFO ] [2022-04-01 21:41:56,850] User_Create_Product_Manufacture -  Step 03: Click to 'Login' button
+[INFO ] [2022-04-01 21:41:59,704] User_Create_Product_Manufacture -  Step 04: Click to 'Inventory' Feature
+[INFO ] [2022-04-01 21:42:01,052] User_Create_Product_Manufacture -  Step 05: Click to 'Products' at top menu
+[INFO ] [2022-04-01 21:42:02,919] User_Create_Product_Manufacture -  Step 06: Click to 'Create' button
+[INFO ] [2022-04-01 21:42:04,505] User_Create_Product_Manufacture -  Step 07: Input valid data into 'Product Name' textbox
+[INFO ] [2022-04-01 21:42:06,053] User_Create_Product_Manufacture -  Step 08: Select value = mm at 'Unit of Measure' dropdown
+[INFO ] [2022-04-01 21:42:08,592] User_Create_Product_Manufacture -  Step 09: Select value = cm at 'Purchase UoM' dropdown
+[INFO ] [2022-04-01 21:42:11,138] User_Create_Product_Manufacture -  Step 10: Click to 'Save' button
+[INFO ] [2022-04-01 21:42:11,931] User_Create_Product_Manufacture -  Step 11: Click to 'Update Quantity' button
+[INFO ] [2022-04-01 21:42:13,258] User_Create_Product_Manufacture -  Step 12: Click to 'Create' button
+[INFO ] [2022-04-01 21:42:14,570] User_Create_Product_Manufacture -  Step 13: Input data = 15 to 'Quantity' field
+[INFO ] [2022-04-01 21:42:15,156] User_Create_Product_Manufacture -  Step 14: Click to 'Save' button
+[INFO ] [2022-04-01 21:42:15,942] User_Create_Product_Manufacture -  Step 15: Click to 'Application' icon
+[INFO ] [2022-04-01 21:42:16,764] User_Create_Product_Manufacture -  Step 16: Click to 'Manufacturing' feature
+[INFO ] [2022-04-01 21:42:17,535] User_Create_Product_Manufacture -  Step 17: Click to 'Create' button
+[INFO ] [2022-04-01 21:42:19,075] User_Create_Product_Manufacture -  Step 18: Select value = Automation Productat 'Product' dropdown
+[INFO ] [2022-04-01 21:42:22,281] User_Create_Product_Manufacture -  Step 19: Click to 'Confirm' button
+[INFO ] [2022-04-01 21:42:23,073] User_Create_Product_Manufacture -  Step 20: Input data = 15 to 'Quantity' textbox 
+[INFO ] [2022-04-01 21:42:24,713] User_Create_Product_Manufacture -  Step 21: Click to 'Mask As Done' button
+[INFO ] [2022-04-01 21:42:25,477] User_Create_Product_Manufacture -  Step 22: Click to 'OK' button at Confirm popup
+[INFO ] [2022-04-01 21:42:26,272] User_Create_Product_Manufacture -  Step 23: Verify Product name is displayed correctly
+[INFO ] [2022-04-01 21:42:26,834]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-04-01 21:42:26,834] User_Create_Product_Manufacture -  Step 24: Verify Quantity is displayed correctly
+[INFO ] [2022-04-01 21:42:27,557]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-04-01 21:42:27,559] Post-Condition: Close browser firefox
+[INFO ] [2022-04-01 21:42:27,560] OS name = windows 10
+[INFO ] [2022-04-01 21:42:27,560] Driver instance name = windows 10

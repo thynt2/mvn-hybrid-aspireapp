@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AspireApp" parallel="fasle">
+
+	<listeners>
+		<listener class-name="reportConfig.ExtentTestListener" />
+		<listener class-name="commons.MethodListener" />
+	</listeners>
+	<parameter name="url" value="https://aspireapp.odoo.com/" />
+	<test name="Run on FIREFOX">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class
+				name="aspire.aspireapp.user.User_Login_Create_Manufacture" />
+		</classes>
+	</test>
+</suite>
